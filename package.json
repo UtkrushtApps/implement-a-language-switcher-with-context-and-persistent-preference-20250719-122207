@@ -1,0 +1,15 @@
+{
+  "name": "saas-dashboard-language-switcher",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SaaS Dashboard with Language Switcher and Persistence",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "npx serve -s build",
+    "build": "npx react-scripts build",
+    "dev": "npx react-scripts start"
+  }
+}
